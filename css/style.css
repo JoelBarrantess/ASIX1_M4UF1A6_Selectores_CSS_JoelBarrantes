@@ -1,0 +1,17 @@
+*{
+    font-family: 'Noto Sans JP';
+}
+
+body {
+    margin: 0;
+    padding: 20%;
+}
+
+h1 {
+    text-decoration: underline;
+    color: darkcyan;
+}
+
+.selector {
+    color: cyan;
+}
